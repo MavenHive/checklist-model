@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vitalets/checklist-model.git"
+    "url": "git@github.com:MavenHive/checklist-model.git"
   },
   "engines": {
     "node": ">= 0.8.0"
